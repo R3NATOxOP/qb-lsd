@@ -1,7 +1,5 @@
 Config = Config or {}
 
-Config.Locale = 'en'
-
 Config.CircleZones = {
 	
 	MushroomField = {coords = vector3(3254.67, -135.77, 15.67), name = 'blip_weedfield', color = 25, sprite = 496, radius = 15.0},
