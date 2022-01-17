@@ -2,6 +2,8 @@
 
 A mashroom picking and make LSD Script for your server!
 
+Preview : **Soon**
+
 Converted from qb-weedpicking
 
 Real Script - https://github.com/MrEvilGamer/qb-weedpicking
